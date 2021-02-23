@@ -1,0 +1,15 @@
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\bin\Debug\netcoreapp3.1\BouncyCastleExample.exe
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\obj\Debug\netcoreapp3.1\BouncyCastleExample.csprojAssemblyReference.cache
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\obj\Debug\netcoreapp3.1\BouncyCastleExample.AssemblyInfoInputs.cache
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\obj\Debug\netcoreapp3.1\BouncyCastleExample.AssemblyInfo.cs
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\bin\Debug\netcoreapp3.1\BouncyCastleExample.deps.json
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\bin\Debug\netcoreapp3.1\BouncyCastleExample.runtimeconfig.json
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\bin\Debug\netcoreapp3.1\BouncyCastleExample.runtimeconfig.dev.json
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\bin\Debug\netcoreapp3.1\BouncyCastleExample.dll
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\bin\Debug\netcoreapp3.1\BouncyCastleExample.pdb
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\obj\Debug\netcoreapp3.1\BouncyCastleExample.csproj.CoreCompileInputs.cache
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\obj\Debug\netcoreapp3.1\BouncyCastleExample.csproj.CopyComplete
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\obj\Debug\netcoreapp3.1\BouncyCastleExample.dll
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\obj\Debug\netcoreapp3.1\BouncyCastleExample.pdb
+C:\Users\Impossible\source\repos\BouncyCastleExample\BouncyCastleExample\obj\Debug\netcoreapp3.1\BouncyCastleExample.genruntimeconfig.cache

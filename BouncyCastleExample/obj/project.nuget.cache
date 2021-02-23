@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "otmAfAWsGp/eRd6ZGdx+mUfyVteIO5SCnGTVtId3Zx3VC2sk/yA1QQD+heg21aRHNat1fe7rZzoj9+K1SXaiiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Impossible\\Desktop\\Учеба\\7 семестр\\сети\\Доклад\\BouncyCastleExampleSource\\BouncyCastleExample\\BouncyCastleExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Impossible\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512"
+  ],
+  "logs": []
+}
