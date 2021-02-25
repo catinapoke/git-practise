@@ -35,7 +35,7 @@ namespace BouncyCastleExample
                 Console.WriteLine("msg.txt - message for encryption");
                 Console.WriteLine("crypted.txt - encrypted message");
                 Console.WriteLine("decrypted.txt - decrypted message from crypted.txt");
-                return 0
+                return 0;
             }
             string identity = args[0]; 
             string passPhrase = args[1];
